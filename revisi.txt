@@ -1,0 +1,7 @@
+1. Ubah navbar tambahkan dropdown
+2. layout dibuat lebih menarik
+3. tambahkan halaman katalog dan layanan produk
+4. produk di tampilkan di halaman utama hanya 4 unggulan dari masing masing produk
+5. betulkan navbar posisi logo terlalu ke tengah
+6. Color font diatur sesuai porsinya
+7. Atur halaman katalog
